@@ -1,0 +1,7 @@
+{
+	"name": "datastore",
+	"title": "Redis",
+  "value": "redis",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/redis.svg",
+  "version": "4.0.6"
+}

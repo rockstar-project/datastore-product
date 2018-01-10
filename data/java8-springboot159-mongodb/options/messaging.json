@@ -1,0 +1,7 @@
+{
+	"name": "messaging",
+	"title": "RabbitMQ",
+  "value": "rabbitmq",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rabbitmq.png",
+  "version": "3.7.2"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "discovery",
+	"title": "Consul",
+  "value": "consul",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/consul.svg",
+  "version": "0.0"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "java8-springboot159-nats",
+    "title": "Spring Boot in Action",
+    "subtitle": "Crafting effective RESTful microservice with Spring boot",
+    "description": "",
+    "image": "/assets/img/gallery/2.jpg",
+    "featured": true,
+    "visibility": "public",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "gravitant",
+    "status": "active"
+  }

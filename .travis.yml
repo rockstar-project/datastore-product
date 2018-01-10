@@ -1,0 +1,9 @@
+sudo: required
+
+services:
+  - docker
+
+script:
+  - docker build -t $DOCKER_NAMESPACE/datastore-product .
+  - docker login --username $DOCKER_USER -p $DOCKER_PASSWORD
+  - docker push $DOCKER_NAMESPACE/datastore-product
