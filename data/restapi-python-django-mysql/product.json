@@ -1,0 +1,13 @@
+{
+    "name": "restapi-python-django-mysql",
+    "title": "Python/Django with MySQL",
+    "subtitle": "Building Microservice with Python, Django & MySQL",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover/229.jpg",
+    "featured": true,
+    "visibility": "public",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar",
+    "status": "active"
+  }

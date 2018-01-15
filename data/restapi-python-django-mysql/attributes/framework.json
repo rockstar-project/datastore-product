@@ -1,0 +1,7 @@
+{
+  "name": "framework",
+  "title": "Django",
+  "value": "django",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/django.png",
+  "version": "0.0"
+}

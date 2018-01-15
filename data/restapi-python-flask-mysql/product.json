@@ -1,0 +1,13 @@
+{
+    "name": "restapi-python-flask-mysql",
+    "title": "Python/Flask with MySQL",
+    "subtitle": "Building Microservice with Python, Flask & MySQL",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover/4.jpg",
+    "featured": true,
+    "visibility": "public",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar",
+    "status": "active"
+  }

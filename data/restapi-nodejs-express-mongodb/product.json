@@ -1,0 +1,13 @@
+{
+    "name": "restapi-nodejs-express-mongodb",
+    "title": "NodeJS/Express with Mongodb",
+    "subtitle": "Boot Your RESTful API with springboot & mongodb",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover/224.jpg",
+    "featured": true,
+    "visibility": "public",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar",
+    "status": "active"
+  }

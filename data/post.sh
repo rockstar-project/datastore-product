@@ -11,13 +11,13 @@ do
   LOCATION_HEADER=$(echo "$LOCATION_HEADER" | tr -d '\r')
   PRODUCT_HREF=`echo ${LOCATION_HEADER:9}`
 
-  ATTRIBUTE_FILES=$t/attributes/*.json
+  ATTRIBUTE_FILES=$product_folder/attributes/*.json
   for attribute_file in $ATTRIBUTE_FILES
   do
     curl --silent -X POST -H 'Content-Type: application/json' -H "Authorization: Bearer $ACCESS_TOKEN" --data @$attribute_file $PRODUCT_HREF/attributes
   done
 
-  OPTION_FILES=$t/options/*.json
+  OPTION_FILES=$product_folder/options/*.json
   for option_file in $OPTION_FILES
   do
     curl --silent -X POST -H 'Content-Type: application/json' -H "Authorization: Bearer $ACCESS_TOKEN" --data @$option_file $PRODUCT_HREF/options

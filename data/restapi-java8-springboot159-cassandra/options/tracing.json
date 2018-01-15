@@ -1,0 +1,10 @@
+{
+  "name": "tracing",
+  "title": "Zipkin",
+  "value": "zipkin",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/zipkin.svg",
+  "tags": [
+    "platform"
+  ],
+  "version": "0.0"
+}

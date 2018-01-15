@@ -1,0 +1,10 @@
+{
+  "name": "security",
+  "title": "Auth0",
+  "value": "auth0",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/auth0.svg",
+  "tags": [
+    "platform"
+  ],
+  "version": "Hosted"
+}

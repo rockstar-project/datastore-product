@@ -1,0 +1,13 @@
+{
+    "name": "restapi-nodejs-hapi-neo4j",
+    "title": "NodeJS/HAPI with Neo4J",
+    "subtitle": "Be Hapi",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover/13.jpg",
+    "featured": true,
+    "visibility": "public",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar",
+    "status": "active"
+  }

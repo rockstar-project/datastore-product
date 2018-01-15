@@ -1,0 +1,13 @@
+{
+    "name": "restapi-nodejs-hapi-mongodb",
+    "title": "NodeJS/HAPI with Mongodb",
+    "subtitle": "Be Hapi",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover/10.jpg",
+    "featured": true,
+    "visibility": "public",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar",
+    "status": "active"
+  }
