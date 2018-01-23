@@ -1,0 +1,10 @@
+{
+  "name": "ci",
+  "title": "Travis CI",
+  "value": "travis",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/travisci.svg",
+  "tags": [
+    "devops"
+  ],
+  "version": "Hosted"
+}

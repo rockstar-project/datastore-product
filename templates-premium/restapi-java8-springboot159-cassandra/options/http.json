@@ -1,0 +1,10 @@
+{
+  "name": "http",
+  "title": "Tomcat",
+  "value": "tomcat",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/tomcat.svg",
+  "tags": [
+    "platform"
+  ],
+  "version": "8.5.23"
+}

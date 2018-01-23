@@ -1,0 +1,14 @@
+{
+    "name": "restapi-java-springboot-neo4j-free",
+    "title": "Springboot & Neo4J",
+    "subtitle": "Crafting effective RESTful microservice with Spring boot",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
+    "featured": false,
+    "visibility": "public",
+    "state": "publish",
+    "price": "free",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar"
+  }

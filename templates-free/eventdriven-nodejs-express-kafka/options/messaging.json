@@ -1,0 +1,10 @@
+{
+  "name": "messaging",
+  "title": "Kafka",
+  "value": "kafka",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/kafka_blue.png",
+  "version": "1.0.0",
+  "tags": [
+    "platform"
+  ]
+}

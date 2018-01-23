@@ -1,0 +1,10 @@
+{
+  "name": "datastore",
+  "title": "MySQL",
+  "value": "mysql",
+  "image": "https://icongr.am/devicon/mongodb-original-wordmark.svg?size=200",
+  "version": "5.7",
+  "tags": [
+    "platform"
+  ]
+}
