@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS PRODUCT (
   SUBTITLE varchar(255),
   DESCRIPTION varchar(1000),
   IMAGE varchar(255),
+  BLOG_URL varchar(255),
   FEATURED tinyint,
   STATE varchar(255),
   PRICE varchar(255),

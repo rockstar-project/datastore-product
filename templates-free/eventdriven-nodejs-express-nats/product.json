@@ -1,5 +1,5 @@
 {
-    "name": "eventdriven-nodejs-express-nats-free",
+    "name": "eventdriven-nodejs-express-nats",
     "title": "NodeJS, Express & NATS",
     "subtitle": "Crafting event-driven microservice with NodeJS & NATS",
     "description": "",

@@ -1,5 +1,5 @@
 {
-    "name": "eventdriven-java-springboot-cloudamqp-free",
+    "name": "eventdriven-java-springboot-cloudamqp",
     "title": "Springboot & CloudAMQP",
     "subtitle": "Crafting effective Event-driven microservice with Spring boot & CloudAMQP",
     "description": "",

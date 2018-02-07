@@ -1,5 +1,5 @@
 {
-    "name": "restapi-java-springboot-nats-free",
+    "name": "eventdriven-java-springboot-nats",
     "title": "Springboot & NATS",
     "subtitle": "Crafting effective RESTful microservice with Spring boot",
     "description": "",

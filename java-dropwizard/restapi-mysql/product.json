@@ -1,0 +1,15 @@
+{
+    "name": "restapi-java-dropwizard-mysql ",
+    "title": "Dropwizard with MySQL",
+    "subtitle": "RESTful API with DropWizard & MySQL",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
+    "blog_url": "https://www.toptal.com/java/dropwizard-tutorial-microservices",
+    "featured": true,
+    "visibility": "public",
+    "state": "publish",
+    "price": "free",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar"
+  }

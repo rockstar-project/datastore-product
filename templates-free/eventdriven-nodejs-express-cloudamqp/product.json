@@ -1,5 +1,5 @@
 {
-    "name": "eventdriven-nodejs-express-cloudamqp-free",
+    "name": "eventdriven-nodejs-express-cloudamqp",
     "title": "NodeJS, Express & CloudAMQP",
     "subtitle": "Crafting event-driven microservice using NodeJS & Express",
     "description": "",

@@ -1,5 +1,5 @@
 {
-    "name": "restapi-java-springboot-cassandra-free",
+    "name": "eventdriven-java-springboot-rabbitmq",
     "title": "Springboot & Cassandra",
     "subtitle": "Crafting effective RESTful microservice with Spring boot",
     "description": "",

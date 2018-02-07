@@ -1,5 +1,5 @@
 {
-    "name": "restapi-nodejs-express-cassandra-free",
+    "name": "restapi-nodejs-express-cassandra",
     "title": "NodeJS, Express & Cassandra",
     "subtitle": "Crafting RESTful microservice with NodeJS, Express & Cassandra",
     "description": "",

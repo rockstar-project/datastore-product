@@ -1,0 +1,7 @@
+{
+  "name": "framework",
+  "title": "HAPI",
+  "value": "hapi",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hapi.svg",
+  "version": "16.6.2"
+}

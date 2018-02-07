@@ -1,5 +1,5 @@
 {
-    "name": "eventconsumer-java-springboot-kafka-free",
+    "name": "eventdriven-java-springboot-kafka",
     "title": "Springboot & Kafka",
     "subtitle": "Crafting effective Event-driven microservice with Spring boot & Kafka",
     "description": "",

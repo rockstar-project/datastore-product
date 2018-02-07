@@ -1,5 +1,5 @@
 {
-    "name": "eventdriven-nodejs-express-rabbitmq-free",
+    "name": "eventdriven-nodejs-express-rabbitmq",
     "title": "NodeJS, Express & RabbitMQ",
     "subtitle": "Building event-driven microservice with NodeJS, Express & RabbitMQ",
     "description": "",
