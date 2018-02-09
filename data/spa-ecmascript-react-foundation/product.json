@@ -1,0 +1,15 @@
+React{
+    "name": "spa-javascript-react-foundation",
+    "title": "React Foundation App",
+    "subtitle": "React Foundation for Ultra-Modern Single Pages",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
+    "blog_url": "",
+    "featured": false,
+    "visibility": "public",
+    "state": "publish",
+    "price": "free",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar"
+  }

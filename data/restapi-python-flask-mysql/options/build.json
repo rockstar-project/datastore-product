@@ -2,9 +2,9 @@
   "name": "build",
   "title": "Maven",
   "value": "maven",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/maven.svg",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/maven.png",
   "version": "3.3.9",
   "tags": [
-    "tools"
+    "devops"
   ]
 }

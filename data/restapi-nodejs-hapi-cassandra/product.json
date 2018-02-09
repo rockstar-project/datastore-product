@@ -1,13 +1,13 @@
 {
-    "name": "restapi-nodejs-hapi-cassandra",
-    "title": "NodeJS/HAPI with Cassandra",
+    "name": "restapi-nodejs-hapi-cassandra-featured",
+    "title": "NodeJS & HAPI with Cassandra",
     "subtitle": "Be Hapi",
     "description": "",
-    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover/20.jpg",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
     "featured": true,
     "visibility": "public",
     "version": "1.0.0",
     "author": "salsiddiqui0@gmail.com",
     "organization": "rockstar",
-    "status": "active"
+    "state": "publish"
   }

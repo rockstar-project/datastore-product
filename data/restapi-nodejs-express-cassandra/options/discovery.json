@@ -2,9 +2,9 @@
   "name": "discovery",
   "title": "Eureka",
   "value": "eureka",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/eureka.svg",
-  "version": "0.0",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/netflix-oss.png",
   "tags": [
     "platform"
-  ]
+  ],
+  "version": "0.0"
 }

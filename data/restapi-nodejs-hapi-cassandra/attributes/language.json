@@ -2,6 +2,6 @@
   "name": "language",
   "title": "NodeJS",
   "value": "nodejs",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nodejs.png",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nodejs-icon.svg",
   "version": "8.9.3"
 }
