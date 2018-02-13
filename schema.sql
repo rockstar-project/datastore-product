@@ -24,6 +24,7 @@ CREATE TABLE IF NOT EXISTS OPTION_ITEM (
   VALUE varchar(255),
   TITLE varchar(255),
   IMAGE varchar(255),
+  FEATURED tinyint,
   TAGS varchar(255),
   VERSION varchar(100));
 

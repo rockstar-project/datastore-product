@@ -3,6 +3,7 @@
   "title": "Cassandra",
   "value": "cassandra",
   "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cassandra.svg",
+  "featured": true,
   "version": "3.11.1",
   "tags": [
     "platform"

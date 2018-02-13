@@ -2,7 +2,7 @@
   "name": "tracing",
   "title": "Zipkin",
   "value": "zipkin",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/zipkin.svg",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/zipkin.png",
   "version": "0.0",
   "tags": [
     "platform"

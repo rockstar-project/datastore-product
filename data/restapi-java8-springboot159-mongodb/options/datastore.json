@@ -3,6 +3,7 @@
   "title": "MongoDB",
   "value": "mongodb",
   "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mongodb.png",
+  "featured": true,
   "version": "3.6",
   "tags": [
     "platform"

@@ -3,6 +3,7 @@
   "title": "NATS",
   "value": "nats",
   "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nats.png",
+  "featured": true,
   "version": "1.0.4",
   "tags": [
     "platform"

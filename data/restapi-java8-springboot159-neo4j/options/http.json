@@ -2,7 +2,7 @@
   "name": "http",
   "title": "Tomcat",
   "value": "tomcat",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/tomcat.svg",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/tomcat.png",
   "version": "8.5.23",
   "tags": [
     "platform"

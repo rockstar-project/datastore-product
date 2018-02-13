@@ -3,6 +3,7 @@
   "title": "PostgreSQl",
   "value": "postgresql",
   "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/postgresql_white.png",
+  "featured": true,
   "tags": [
     "platform"
   ],
