@@ -1,7 +1,7 @@
 {
     "name": "restapi-nodejs-express-cassandra",
-    "title": "NodeJS, Express & Cassandra",
-    "subtitle": "Crafting RESTful microservice with NodeJS, Express & Cassandra",
+    "title": "Crafting REST API with NodeJS, Express & Cassandra",
+    "subtitle": "Restify NodeJs",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
     "featured": false,

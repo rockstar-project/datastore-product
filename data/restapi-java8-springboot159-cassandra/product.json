@@ -1,7 +1,7 @@
 {
     "name": "restapi-java-springboot-cassandra",
-    "title": "Java/Springboot with Cassandra",
-    "subtitle": "Crafting effective RESTful microservice with Spring boot",
+    "title": "Craft Your Microservice using springboot & mongodb",
+    "subtitle": "Bootiful Microservice",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover/97.jpg",
     "featured": true,
@@ -9,5 +9,5 @@
     "version": "1.0.0",
     "author": "salsiddiqui0@gmail.com",
     "organization": "rockstar",
-    "status": "active"
+    "state": "publish"
   }

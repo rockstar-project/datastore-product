@@ -1,13 +1,13 @@
 {
     "name": "restapi-java8-springboot159-neo4j",
-    "title": "Java/Springboot with Neo4J",
-    "subtitle": "Crafting effective RESTful microservice with Spring boot",
+    "title": "Crafting effective API with Spring boot & Neo4J",
+    "subtitle": "Bootiful Microservice",
     "description": "",
-    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover/90.jpg",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
     "featured": true,
     "visibility": "public",
     "version": "1.0.0",
     "author": "salsiddiqui0@gmail.com",
     "organization": "rockstar",
-    "status": "active"
+    "state": "publish"
   }

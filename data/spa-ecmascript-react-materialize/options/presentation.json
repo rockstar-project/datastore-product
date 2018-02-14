@@ -2,6 +2,7 @@
   "name": "presentation",
   "title": "Materialize",
   "value": "materialize",
+  "featured": "true",
   "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/materialize.png",
   "version": "0.0.0"
 }

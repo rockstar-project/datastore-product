@@ -1,7 +1,7 @@
 {
     "name": "restapi-python-flask-mysql-featured",
-    "title": "Python & Flask with MySQL",
-    "subtitle": "Building Microservice with Python, Flask & MySQL",
+    "title": "Building Microservice with Python, Flask & MySQL",
+    "subtitle": "Python & Flask with MySQL",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
     "featured": true,

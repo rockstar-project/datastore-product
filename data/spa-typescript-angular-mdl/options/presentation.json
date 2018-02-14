@@ -1,7 +1,8 @@
 {
   "name": "presentation",
-  "title": "Google Material Design",
-  "value": "materialdesign",
+  "title": "Material Design Lite",
+  "value": "mdl",
+  "featured": "true",
   "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/materialdesign.png",
   "version": "0.0.0"
 }

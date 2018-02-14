@@ -1,7 +1,7 @@
 {
     "name": "restapi-python-django-mysql-featured",
-    "title": "Python & Django with MySQL",
-    "subtitle": "Building Microservice with Python, Django & MySQL",
+    "title": "Building Microservice with Python, Django & MySQL",
+    "subtitle": "Python, Django, MySQL",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
     "featured": true,

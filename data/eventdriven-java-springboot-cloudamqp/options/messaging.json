@@ -2,6 +2,7 @@
   "name": "messaging",
   "title": "CloudAMQP",
   "value": "cloudamqp",
+  "featured": true,
   "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cloudamqp.png",
   "version": "Hosted",
   "tags": [

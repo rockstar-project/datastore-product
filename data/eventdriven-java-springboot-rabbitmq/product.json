@@ -1,10 +1,10 @@
 {
     "name": "eventdriven-java-springboot-rabbitmq",
-    "title": "Springboot & Cassandra",
-    "subtitle": "Crafting effective RESTful microservice with Spring boot",
+    "title": "Consuming RabbitMQ events with Spring boot",
+    "subtitle": "Eventful Microservice",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
-    "featured": false,
+    "featured": true,
     "visibility": "public",
     "state": "publish",
     "price": "free",

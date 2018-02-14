@@ -1,13 +1,13 @@
 {
     "name": "restapi-java8-springboot159-kafka",
-    "title": "Java/Springboot with Kafka",
-    "subtitle": "Crafting effective RESTful microservice with Spring boot",
+    "title": "Publishing CRUD events to Kafka using springboot",
+    "subtitle": "Event-Driven Microservice",
     "description": "",
-    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover/203.jpg",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
     "featured": true,
     "visibility": "public",
     "version": "1.0.0",
     "author": "salsiddiqui0@gmail.com",
     "organization": "rockstar",
-    "status": "active"
+    "state": "publish"
   }

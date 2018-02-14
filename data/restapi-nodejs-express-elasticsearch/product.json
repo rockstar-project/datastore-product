@@ -1,10 +1,10 @@
 {
     "name": "restapi-nodejs-express-elasticsearch",
-    "title": "NodeJS, Express & ElasticSearch",
-    "subtitle": "Crafting RESTful microservice with NodeJS, Express & ElasticSearch",
+    "title": "Crafting REST API with NodeJS, Express & ElasticSearch",
+    "subtitle": "Restify NodeJS",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
-    "featured": false,
+    "featured": true,
     "visibility": "public",
     "state": "publish",
     "price": "free",

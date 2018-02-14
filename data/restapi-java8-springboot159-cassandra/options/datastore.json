@@ -2,7 +2,7 @@
   "name": "datastore",
   "title": "Cassandra",
   "value": "cassandra",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cassandra.svg",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cassandra.png",
   "featured": true,
   "tags": [
     "platform"

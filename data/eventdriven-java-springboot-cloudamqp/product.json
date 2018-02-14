@@ -1,10 +1,10 @@
 {
     "name": "eventdriven-java-springboot-cloudamqp",
-    "title": "Springboot & CloudAMQP",
-    "subtitle": "Crafting effective Event-driven microservice with Spring boot & CloudAMQP",
+    "title": "Consuming CloudAMQP message events with Spring boot",
+    "subtitle": "Eventful Microservice",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
-    "featured": false,
+    "featured": true,
     "visibility": "public",
     "state": "publish",
     "price": "free",
