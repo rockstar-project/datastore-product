@@ -4,7 +4,7 @@
   "value": "mongodb",
   "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mongodb.png",
   "featured": true,
-  "version": "3.6",
+  "version": "3.4",
   "tags": [
     "platform"
   ]

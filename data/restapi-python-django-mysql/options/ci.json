@@ -1,8 +1,8 @@
 {
   "name": "ci",
-  "title": "Travis CI",
-  "value": "travis",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/travisci.svg",
+  "title": "Circle CI",
+  "value": "circleci",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/circleci.svg",
   "version": "Hosted",
   "tags": [
     "devops"

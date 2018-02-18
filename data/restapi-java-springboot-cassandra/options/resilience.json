@@ -1,0 +1,10 @@
+{
+  "name": "resilience",
+  "title": "Hystrix",
+  "value": "hystrix",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/netflix-hystrix.jpg",
+  "version": "1.5.2",
+  "tags": [
+    "platform"
+  ]
+}

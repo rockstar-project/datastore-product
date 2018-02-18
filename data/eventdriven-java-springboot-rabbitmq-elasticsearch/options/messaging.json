@@ -1,0 +1,11 @@
+{
+  "name": "messaging",
+  "title": "RabbitMQ",
+  "value": "rabbitmq",
+  "featured": true,
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rabbitmq.png",
+  "version": "Hosted",
+  "tags": [
+    "platform"
+  ]
+}

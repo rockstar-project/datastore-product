@@ -1,7 +1,7 @@
 {
     "name": "restapi-nodejs-express-postgresql",
-    "title": "NodeJS, Express & PostgreSQl",
-    "subtitle": "Crafting RESTful microservice with NodeJS, Express & PostgreSQl",
+    "title": "Crafting RESTful microservice with NodeJS, Express & PostgreSQl",
+    "subtitle": "NodeJS, Express & PostgreSQl",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
     "featured": false,

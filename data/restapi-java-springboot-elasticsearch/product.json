@@ -1,14 +1,13 @@
 {
     "name": "restapi-java-springboot-elasticsearch",
-    "title": "Springboot & ElasticSearch",
-    "subtitle": "Crafting effective RESTful microservice with Spring boot",
+    "title": "Crafting effective Search API using spring boot & ElasticSearch",
+    "subtitle": "Bootiful Microservice",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
-    "featured": false,
+    "featured": true,
     "visibility": "public",
-    "state": "publish",
-    "price": "free",
     "version": "1.0.0",
     "author": "salsiddiqui0@gmail.com",
-    "organization": "rockstar"
+    "organization": "rockstar",
+    "state": "publish"
   }

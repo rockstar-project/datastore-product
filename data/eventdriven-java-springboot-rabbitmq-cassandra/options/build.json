@@ -1,0 +1,8 @@
+{
+	"name": "build",
+	"title": "Gradle",
+  "value": "gradle",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gradle.png",
+	"tags": [ "devops" ],
+  "version": "4.4.1"
+}

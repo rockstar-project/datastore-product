@@ -1,8 +1,8 @@
 {
   "name": "scm",
-  "title": "GitHub",
-  "value": "github",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/github.svg",
+  "title": "GitLab",
+  "value": "gitlab",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gitlab.svg",
   "version": "Hosted",
   "tags": [
     "devops"

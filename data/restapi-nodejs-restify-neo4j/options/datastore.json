@@ -2,7 +2,7 @@
   "name": "datastore",
   "title": "Neo4J",
   "value": "neo4j",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/neo4j.svg",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/neo4j.png",
   "version": "3.4",
   "tags": [
     "platform"

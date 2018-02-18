@@ -1,0 +1,10 @@
+{
+  "name": "datastore",
+  "title": "MySQL",
+  "value": "mysql",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mysql.png",
+  "tags": [
+    "platform"
+  ],
+  "version": "5.7"
+}

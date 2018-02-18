@@ -1,0 +1,13 @@
+{
+    "name": "eventdriven-java-springboot-mariadb",
+    "title": "Consuming CloudAMQP message events with Spring boot",
+    "subtitle": "Create RabbitMQ Message Receiver",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
+    "featured": true,
+    "visibility": "public",
+    "state": "publish",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar"
+  }

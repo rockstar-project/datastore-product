@@ -1,8 +1,8 @@
 {
 	"name": "build",
-	"title": "Maven",
-  "value": "maven",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/maven.png",
-	"tags": [ "tools" ],
-  "version": "3.3.9"
+	"title": "npm",
+  "value": "npm",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/npm_build.png",
+	"tags": [ "devops" ],
+  "version": "Hosted"
 }

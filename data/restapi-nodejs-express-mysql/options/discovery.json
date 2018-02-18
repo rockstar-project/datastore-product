@@ -1,0 +1,10 @@
+{
+  "name": "discovery",
+  "title": "Hydra",
+  "value": "hydra",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hydra.png",
+  "tags": [
+    "platform"
+  ],
+  "version": "0.0"
+}

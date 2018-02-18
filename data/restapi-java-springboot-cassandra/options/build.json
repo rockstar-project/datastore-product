@@ -3,6 +3,6 @@
 	"title": "Maven",
   "value": "maven",
   "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/maven.png",
-	"tags": [ "tools" ],
+	"tags": [ "devops" ],
   "version": "3.3.9"
 }

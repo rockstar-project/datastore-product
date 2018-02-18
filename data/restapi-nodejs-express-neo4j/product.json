@@ -1,7 +1,7 @@
 {
     "name": "restapi-nodejs-express-neo4j",
     "title": "NodeJS, Express & Neo4J",
-    "subtitle": "Crafting RESTful microservice with NodeJS, Express & Neo4J",
+    "subtitle": "APIs in minutes with Node.js",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
     "featured": false,

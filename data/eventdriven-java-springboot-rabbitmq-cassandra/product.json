@@ -1,0 +1,14 @@
+{
+    "name": "eventdriven-java-springboot-rabbitmq-cassandra",
+    "title": "Event messaging for microservices with spring boot and rabbitmq",
+    "subtitle": "Event Messaging with Spring Boot",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
+    "blog_url": "https://reflectoring.io/event-messaging-with-spring-boot-and-rabbitmq/",
+    "featured": true,
+    "visibility": "public",
+    "state": "publish",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar"
+  }

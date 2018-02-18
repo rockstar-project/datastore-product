@@ -1,14 +1,15 @@
 {
     "name": "restapi-nodejs-express-mysql",
-    "title": "NodeJS, Express & MySQL",
-    "subtitle": "Crafting RESTful microservice with NodeJS, Express & MySQL",
+    "title": "Building ExpressJS-based microservice using Hydra",
+    "subtitle": "NodeJS, ExpressJS & MySQL",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
-    "featured": false,
+    "blog_url": "https://community.risingstack.com/tutorial-building-expressjs-based-microservices-using-hydra/",
+    "featured": true,
     "visibility": "public",
     "state": "publish",
     "price": "free",
     "version": "1.0.0",
-    "author": "salsiddiqui0@gmail.com",
+    "author": "carlos_justiniano",
     "organization": "rockstar"
   }

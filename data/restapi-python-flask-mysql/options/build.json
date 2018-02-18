@@ -1,8 +1,8 @@
 {
   "name": "build",
-  "title": "Maven",
-  "value": "maven",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/maven.png",
+  "title": "PyBuilder",
+  "value": "pybuilder",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/pybuilder.png",
   "version": "3.3.9",
   "tags": [
     "devops"
