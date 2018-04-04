@@ -1,0 +1,10 @@
+{
+  "name": "registry",
+  "title": "Docker Hub",
+  "value": "dockerhub",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dockerhub.png",
+  "version": "Hosted",
+  "tags": [
+    "devops"
+  ]
+}

@@ -11,6 +11,12 @@ do
   LOCATION_HEADER=$(echo "$LOCATION_HEADER" | tr -d '\r')
   PRODUCT_HREF=`echo ${LOCATION_HEADER:9}`
 
+  MEDIA_FILES=$product_folder/mediaitems/*.json
+  for media_file in $MEDIA_FILES
+  do
+    curl --silent -X POST -H 'Content-Type: application/json' -H "Authorization: Bearer $ACCESS_TOKEN" --data @$media_file $PRODUCT_HREF/mediaitems
+  done
+
   ATTRIBUTE_FILES=$product_folder/attributes/*.json
   for attribute_file in $ATTRIBUTE_FILES
   do

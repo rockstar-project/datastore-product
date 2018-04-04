@@ -1,11 +1,11 @@
 {
   "name": "datastore",
-  "title": "Cassandra",
-  "value": "cassandra",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cassandra.png",
+  "title": "CouchDB",
+  "value": "couchdb",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/couchdb.svg",
   "featured": true,
   "tags": [
     "platform"
   ],
-  "version": "3.11.1"
+  "version": "2.1.1"
 }

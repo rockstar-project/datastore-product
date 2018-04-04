@@ -1,12 +1,13 @@
 {
     "name": "restapi-java-springboot-mysql",
-    "title": "Crafting effective microservice with Spring boot",
-    "subtitle": "Bootiful Microservice",
+    "title": "Build REST API with Spring Boot & MYSQL",
+    "subtitle": "Spring Boot Microservice",
     "description": "",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
     "featured": true,
     "visibility": "public",
     "version": "1.0.0",
+    "schema_url": "https://api.swaggerhub.com/apis/rockstar/Collections/1.0.0/swagger.json",
     "author": "salsiddiqui0@gmail.com",
     "organization": "rockstar",
     "state": "publish"

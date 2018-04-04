@@ -1,0 +1,13 @@
+{
+    "name": "eventdriven-java-springboot-nats-elasticsearch",
+    "title": "Consuming messages with Spring boot",
+    "subtitle": "Create RabbitMQ Message Receiver",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
+    "featured": false,
+    "visibility": "public",
+    "state": "draft",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar"
+  }

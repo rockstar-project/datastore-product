@@ -1,0 +1,11 @@
+{
+  "name": "messaging",
+  "title": "NATS",
+  "value": "nats",
+  "featured": true,
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nats.png",
+  "version": "1.0.4",
+  "tags": [
+    "platform"
+  ]
+}

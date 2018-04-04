@@ -1,0 +1,14 @@
+{
+    "name": "eventdriven-java-springboot-nats-redis",
+    "title": "Consuming messages with Spring boot",
+    "subtitle": "RabbitMQ to Redis",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
+    "schema_url": "http://json-schema.org/example/card.json",
+    "featured": false,
+    "visibility": "public",
+    "state": "draft",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar"
+  }

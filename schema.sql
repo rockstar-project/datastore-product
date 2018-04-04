@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS PRODUCT (
   DESCRIPTION varchar(1000),
   IMAGE varchar(255),
   BLOG_URL varchar(255),
+  SCHEMA_URL varchar(255),
   FEATURED tinyint,
   STATE varchar(255),
   PRICE varchar(255),
@@ -36,3 +37,12 @@ CREATE TABLE IF NOT EXISTS ATTRIBUTE (
   TITLE varchar(255),
   IMAGE varchar(255),
   VERSION varchar(100));
+
+CREATE TABLE IF NOT EXISTS MEDIA_ITEM (
+    ID varchar(36) PRIMARY KEY,
+    PRODUCT_ID varchar(36),
+    TITLE varchar(255),
+    SRC varchar(255),
+    THUMBNAIL varchar(255),
+    MEDIA_TYPE varchar(255),
+    TAGS varchar(255));

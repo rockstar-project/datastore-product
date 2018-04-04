@@ -1,0 +1,15 @@
+{
+    "name": "eventdriven-java-springboot-kafka-mysql
+    ",
+    "title": "Consuming Kafka message events with Spring boot",
+    "subtitle": "Create Kafka Listener",
+    "description": "",
+    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/cover_600x800_blank.jpg",
+    "featured": false,
+    "visibility": "public",
+    "state": "draft",
+    "price": "free",
+    "version": "1.0.0",
+    "author": "salsiddiqui0@gmail.com",
+    "organization": "rockstar"
+  }
