@@ -1,0 +1,6 @@
+HTTP/1.1 200 
+X-Application-Context: gateway:docker:8765
+Date: Sun, 05 Aug 2018 17:12:46 GMT
+Content-Type: application/hal+json;charset=UTF-8
+Transfer-Encoding: chunked
+

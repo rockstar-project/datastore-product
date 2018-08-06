@@ -2,7 +2,7 @@
   "name": "datastore",
   "title": "CouchDB",
   "value": "couchdb",
-  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/couchdb.svg",
+  "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/couchdb1.png",
   "featured": true,
   "tags": [
     "platform"

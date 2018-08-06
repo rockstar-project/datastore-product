@@ -41,8 +41,9 @@ CREATE TABLE IF NOT EXISTS ATTRIBUTE (
 CREATE TABLE IF NOT EXISTS MEDIA_ITEM (
     ID varchar(36) PRIMARY KEY,
     PRODUCT_ID varchar(36),
+    SLUG varchar(128),
     TITLE varchar(255),
     SRC varchar(255),
     THUMBNAIL varchar(255),
     MEDIA_TYPE varchar(255),
-    TAGS varchar(255));
+    DISPLAY_ORDER integer);
